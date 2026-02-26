@@ -22,22 +22,7 @@ MarkText 是一款简洁优雅的 Markdown 编辑器，支持实时预览和多�
 ### 安装
 
 #### Windows
-1. 从 [GitHub Releases](https://github.com/marktext/marktext/releases) 下载 `.exe` 安装包
-2. 运行安装程序，按照提示完成安装
-
-#### macOS
-```bash
-brew install --cask mark-text
-```
-
-#### Linux
-```bash
-# Ubuntu/Debian
-sudo apt install marktext
-
-# Arch Linux
-sudo pacman -S marktext
-```
+ 从(https://github.com/sxzhaot/marktext_cn/releases) 下载解压
 
 ### 首次运行
 
